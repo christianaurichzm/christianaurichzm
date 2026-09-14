@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey there, I'm Christian! 👋
 
-<!--
-**christianaurichzm/christianaurichzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m interested in understanding what complexity belongs to the problem itself and what complexity we introduce along the way. When something captures my attention, I tend to dive deep into it.
 
-Here are some ideas to get you started:
+I’ve been interested in **open source and free software** since I was a kid, and that early curiosity eventually grew into a broader interest in how software is built, understood, and shared.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I care about
+
+I’m especially drawn to **critical systems**, where correctness, reliability, and failure modes are not abstract concerns.
+
+I currently work as a **Lead Software Engineer on e-SUS Primary Care**, a nationwide digital health ecosystem supporting Brazil’s public Primary Health Care system. It operates within a network that reaches **more than 160 million people** and is used by **over one million health professionals** across the country.
+
+### Outside of work
+
+I enjoy playing electric guitar, listening to music, reading about neuroscience, traveling, hiking, biking, and building games and personal projects for fun.
+
+Brazilian-Italian dual citizen.
